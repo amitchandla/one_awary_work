@@ -9,8 +9,8 @@
 
 window.BIZGROW_CONFIG = {
   // Replace with your Supabase project values (Project Settings → API)
-  SUPABASE_URL: "https://YOUR-PROJECT.supabase.co",
-  SUPABASE_ANON_KEY: "YOUR-SUPABASE-ANON-PUBLIC-KEY",
+  SUPABASE_URL: "https://bevlpkipqbcdujmbcqsw.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_jctJcAyGCQxdpW78VYh5BA_GRHG-swK",
 
   // Name of the Supabase Edge Function that calls the AI provider
   // server-side. See supabase/functions/ai-generate/index.ts
